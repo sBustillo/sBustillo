@@ -1,5 +1,7 @@
-Hi!!
+Powershell and python sorcerer
 
-I'm sBustillo SysAdmin and junior cibersecurity researcher.
+i write my own spells in c++ 
 
-c# c++ python and powershell
+sysadmin and infosec junior researcher.
+
+
